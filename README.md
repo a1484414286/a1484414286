@@ -17,7 +17,7 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,scss,react,nodejs,express,nextjs,cpp,py,mongodb,firebase,git,github,vscode,figma,vercel,flutter,dart,supabase&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,swift,tailwind,scss,react,nodejs,express,nextjs,cpp,py,mongodb,firebase,git,gitlab,github,vscode,figma,vercel,flutter,dart,supabase,docker,discord,flask,gcp,gradle,idea,kotlin,maven,bootstrap,postman,&perline=11)](https://skillicons.dev)
 
 
 
