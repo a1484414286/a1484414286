@@ -4,16 +4,16 @@
  📚 Undergraduate Software Engineer student @ Rochester Institute of Technology
  <br />
  <br />
- 💻 Experienced Software Developer focused on building accessible digital experiences
+ 💻 []
  <br />
  <br />
- 🛠️ Committed to developing applications that effectively tackle real-world challenges through a passion for problem-solving
+ 🛠️ []
  <br />
  <br />
- 🤖 During my free time, I am experimenting with different AI LLMs to better tailor them for my personal projects
+ 🤖 []
  <br />
  <br />
- 🏎️ I love F1, my favorite team is Red Bull Racing and my favorite driver of all time is Fernando Alonso
+ 🏎️ []
 
 ## 🧰 Languages and Tools
 
